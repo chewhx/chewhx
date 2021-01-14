@@ -1,4 +1,12 @@
-### Hi there 👋
+### Greetings. 👋 
+
+By day I am a manager in the arts, despite a major in Acccountancy.
+I steal time out of work and my life to be here because recently I'm serious about writing code.
+My main interests are in responsive web, mobile app development, fin-tech applications.
+
+- 🌱 Currently learning more about React and SaSS.
+- 🔭 Shop around my repo and let me know if you see anything you like.
+- 👯 Open to collaborate on projects.
 
 <!--
 **chewhx/chewhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
