@@ -1,12 +1,25 @@
-### Greetings. 👋 
+# Bonjour 👋 
+
+My name is Han Xiang, Chew.
 
 By day I am a manager in the arts, despite a major in Acccountancy.
-I steal time out of work and my life to be here because recently I'm serious about writing code.
-My main interests are in responsive web, mobile app development, fin-tech applications.
+I steal time out of work and my life to be here because recently I've gotten serious about writing code.
+My main interests are in responsive web applications, mobile app development, fin-tech or data-driven applications, and project management.
 
-- 🌱 Currently learning more about React and SaSS.
-- 🔭 Shop around my repo and let me know if you see anything you like.
-- 👯 Open to collaborate on projects.
+- 🌱 I'm currently working on equipping myself to be a full-stack web developer.
+- 🔭 Look around my repo and let me know if you see anything you like.
+- 👯 Open to collaborate on projects or freelance opportunities.
+
+**My learning notes and working files:**
+- [learn-react-table]()
+- [devchallenges](https://github.com/chewhx/devchallenges)
+
+**My recent creations:**
+- [guess-the-flag](https://github.com/chewhx/guess-the-country-flags)
+- [ui8-thegoodlifeblog](https://github.com/chewhx/ui8-thegoodlifeblog)
+
+**Languages and Tools:**
+![](/icons/javascript-original.png)
 
 <!--
 **chewhx/chewhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +35,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- - 
+- JS
+- React
+- HTML
+- CSS 
+- Scss
+- Node.js
+- Google Cloud
+- Mongoose
+- MongoDB -->
