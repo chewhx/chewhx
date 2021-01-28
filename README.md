@@ -11,7 +11,7 @@ My main interests are in responsive web applications, mobile app development, fi
 - 👯 Open to collaborate on projects or freelance opportunities.
 
 **My learning notes and working files:**
-- [learn-react-table]()
+- [learn-react-table](https://github.com/chewhx/learn-react-table)
 - [devchallenges](https://github.com/chewhx/devchallenges)
 
 **My recent creations:**
@@ -20,6 +20,14 @@ My main interests are in responsive web applications, mobile app development, fi
 
 **Languages and Tools:**
 ![](/icons/javascript-original.png)
+![](/icons/react-original.png)
+![](/icons/html5-original.png)
+![](/icons/css3-original.png)
+![](/icons/sass-original.png)
+![](/icons/nodejs-original.png)
+![](/icons/googlecloud-original.png)
+![](/icons/heroku-original.png)
+![](/icons/sketch-original.png)
 
 <!--
 **chewhx/chewhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
