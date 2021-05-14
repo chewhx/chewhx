@@ -10,13 +10,15 @@ My main interests are in responsive web applications, mobile app development, fi
 - 🔭 Look around my repo and let me know if you see anything you like.
 - 👯 Open to collaborate on projects or freelance opportunities.
 
+**My personal projects:**
+- [blobshop](https://blobshop.netlify.app)
+- [guess-the-flag](https://guess-the-country-flags.herokuapp.com)
+- [ui8-thegoodlifeblog](https://github.com/chewhx/ui8-thegoodlifeblog)
+
 **My learning notes and working files:**
 - [learn-react-table](https://github.com/chewhx/learn-react-table)
 - [devchallenges](https://github.com/chewhx/devchallenges)
 
-**My recent creations:**
-- [guess-the-flag](https://github.com/chewhx/guess-the-country-flags)
-- [ui8-thegoodlifeblog](https://github.com/chewhx/ui8-thegoodlifeblog)
 
 **Languages and Tools:** 
 
