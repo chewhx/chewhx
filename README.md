@@ -1,24 +1,6 @@
 # Bonjour 👋 
 
-My name is Han Xiang, Chew.
-
-By day I am a manager in the arts, despite a major in Acccountancy.
-I steal time out of work and my life to be here because recently I've gotten serious about writing code.
-My main interests are in responsive web applications, mobile app development, fin-tech or data-driven applications, and project management.
-
-- 🌱 I'm currently working on equipping myself to be a full-stack web developer.
-- 🔭 Look around my repo and let me know if you see anything you like.
-- 👯 Open to collaborate on projects or freelance opportunities.
-
-**My personal projects:**
-- [blobshop](https://blobshop.netlify.app)
-- [guess-the-flag](https://guess-the-country-flags.herokuapp.com)
-- [ui8-thegoodlifeblog](https://github.com/chewhx/ui8-thegoodlifeblog)
-
-**My learning notes and working files:**
-- [learn-react-table](https://github.com/chewhx/learn-react-table)
-- [devchallenges](https://github.com/chewhx/devchallenges)
-
+I was an accountancy graduate, arts manager, then I ~~self-taught~~ learnt programming. So here I am, trying to use code to make the world a better place to live in. Block by block. Commit by commit.
 
 **Languages and Tools:** 
 
