@@ -1,6 +1,6 @@
 # Bonjour 👋 
 
-I was an accountancy graduate, arts manager, then I ~~self-taught~~ learnt programming. So here I am, trying to use code to make the world a better place to live in. Block by block. Commit by commit.
+So here I am, leave the world a better place than I found it. Block by block. Commit by commit.
 
 **Languages and Tools:** 
 
